@@ -41,6 +41,10 @@ header {
     font-size: 22px;
   }
 
+  nav ul li h2 a {  text-decoration: none;
+    color: #39a6b2;
+  }
+
   footer {
     background: #fce138;
     width: 100%; 
@@ -68,6 +72,8 @@ footer a {
   padding: 60px;
   background-image: url("../images/hero-bg.jpg");
   height: 600px;
+  background-size: cover;
+  background-position: center;
   
 }
 
